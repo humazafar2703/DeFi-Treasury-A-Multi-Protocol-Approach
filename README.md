@@ -1,5 +1,5 @@
-#DeFi Treasury: A Multi-Protocol Approach
-
+**DeFi Treasury: A Multi-Protocol Approach
+**
 This project focuses on designing and implementing a decentralized finance (DeFi) treasury system using smart contracts. It enables the efficient management of digital assets across various DeFi protocols and liquidity pools such as Uniswap and Aave.
 
 Key Features:
